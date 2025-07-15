@@ -57,7 +57,7 @@ Rich, free-form descriptions. Example:
 1. Clone the repo and checkout your track:
 
    ```bash
-   git clone https://github.com/YourOrg/blind-nav-ai.git
+   git clone https://github.com/MohammadYusif/blind-nav-ai.git
    # Quick mode
    git checkout ml-quick
    # Best-base mode
