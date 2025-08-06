@@ -52,7 +52,7 @@ Rich, free-form descriptions. Example:
 [Beep] “A person is walking about two point three meters ahead.”
 ```
 
-## Getting Started
+## Getting Started s
 
 1. Clone the repo and checkout your track:
 
